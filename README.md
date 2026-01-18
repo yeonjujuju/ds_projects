@@ -6,4 +6,4 @@ this repository includes data science prpojects that I had working on with brief
 
 ## Projects
 
-1. [Spotify and Youtube Project] ()
+1. [Spotify and Youtube Project] (spotify:youtube part 2.py)
