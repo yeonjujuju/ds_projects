@@ -13,7 +13,7 @@ df = df.dropna()
 
 check_features = df[["Danceability", "Energy", "Loudness", "Comments", "Tempo", "Speechiness", "Liveness", "Instrumentalness", "Key", "Acousticness", "Valence"]]
 df_corr = check_features.corr()
-print(df_corr)
+# print(df_corr)
 
 dff = df.copy()
 dff["dance_able"] = (dff["Danceability"] >= 0.65).astype(int)
