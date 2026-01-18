@@ -7,3 +7,4 @@ this repository includes data science prpojects that I had working on with brief
 ## Projects
 
 1. [Spotify and YouTube Project](spotify_youtube_project.py)
+   : built a logistic regression model to predict whether the song is danceable or not based on the song features, such as loudness, energy, valence, etc. 
